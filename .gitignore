@@ -1,24 +1,24 @@
-# general files
+# General Files
 .DS_Store
 .vscode
 
-# env files
+# Env Files
 .env
 .env.local
 .env.*.local
 
-# log files
+# Log Files
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# next.js
+# Next.js
 .next
 
-# angular
+# Angular
 dist/
 
-# vue
+# Vue
 /dist
 

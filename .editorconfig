@@ -1,0 +1,17 @@
+# EditorConfig: https://EditorConfig.org
+
+# Top-most EditorConfig file
+root = true
+
+[*]
+# Full support
+charset = utf-8
+end_of_line = lf
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+tab_width = 2
+trim_trailing_whitespace = true
+
+# Limited support
+max_line_length = 120
