@@ -1,0 +1,26 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.tabSize": 2,
+  "editor.scrollBeyondLastLine": false,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.minimap.enabled": false,
+  "git.confirmSync": false,
+  "telemetry.telemetryLevel": "off",
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.NoBrowser": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "grammarly.dialect": "british",
+  "grammarly.domain": "technical",
+  "gitlens.showWhatsNewAfterUpgrades": false,
+  "gitlens.integrations.enabled": false
+}
