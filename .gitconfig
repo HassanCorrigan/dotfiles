@@ -1,0 +1,9 @@
+[core]
+        editor = code --wait
+[init]
+        defaultBranch = main
+[user]
+        name = Hassan Corrigan
+        email = corriganhassan@gmail.com
+[fetch]
+        prune = true
